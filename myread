@@ -1,0 +1,4 @@
+php artisan tinker
+
+
+User::factory()->count(5)->create()
